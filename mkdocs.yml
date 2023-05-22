@@ -1,0 +1,76 @@
+site_name: My Docs
+
+## publish with Surge. For more information, see https://surge.sh/help/getting-started-with-surge
+
+theme:
+    favicon: /img/logo.png
+    name: material
+    logo: img/anchor-solid.svg
+    palette:
+       scheme: default
+       primary: amber
+       accent: deep orange
+##    features:
+##      - navigation.sections
+
+extra_css:
+    - stylesheets/extra.css
+
+copyright: Copyright &copy; 2023
+
+plugins:
+    - include-markdown
+    - table-reader
+    - img2fig
+    - search
+    - macros
+    - render_swagger
+
+markdown_extensions:
+  - admonition
+  - fontawesome_markdown
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
+
+
+nav:
+   - Home: index.md
+   - Product A:
+      - Overview: product-a.md
+      - Getting Started: product-a-getting-started.md
+      - API Documentation:
+            - API Reference: product-a-api-reference.md
+            - API How-tos A: product-a-api-how-to.md
+            - API How-tos B:
+               - How API One?: howtoapione.md
+               - How API Two?: howtoapitwo.md
+               - How API three?: howtoapithree.md
+               - How API Four?: howtoapifour.md            
+      - Troubleshooting: product-a-troubleshooting.md
+   - Product B:
+      - Overview: product-b-overview.md
+      - Getting Started: product-b-getting-started.md
+      - API Reference: product-b-api-reference.md
+      - How-tos: product-b-how-to.md
+      - Troubleshooting: product-b-troubleshooting.md
+   - Product C:
+      - Overview: product-c-overview.md
+      - Getting Started: product-c-getting-started.md
+      - API Reference: product-c-api-reference.md
+      - How-tos: product-c-how-to.md
+      - Troubleshooting: product-c-troubleshooting.md
+   - Product D:
+      - Overview: product-d-overview.md
+      - Getting Started: product-d-getting-started.md
+      - API Reference: product-d-api-reference.md
+      - How-tos: product-d-how-to.md
+      - Troubleshooting: product-d-troubleshooting.md
+
+

@@ -44,8 +44,6 @@ a:visited {
 
 Eros in cursus turpis massa tincidunt dui. Et netus et malesuada fames ac turpis. Maecenas sed enim ut sem viverra aliquet. Nibh venenatis cras sed felis eget velit. Consequat nisl vel pretium lectus quam id leo in. Leo in vitae turpis massa sed elementum tempus. Mus mauris vitae ultricies leo integer malesuada nunc vel. Justo laoreet sit amet cursus sit. Id semper risus in hendrerit gravida rutrum quisque non tellus. Magna fermentum iaculis eu non diam phasellus vestibulum.
 
-Tellus cras adipiscing enim eu turpis egestas pretium. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Eleifend donec pretium vulputate sapien nec sagittis. Sodales neque sodales ut etiam sit amet nisl purus. Tortor dignissim convallis aenean et tortor at risus. Nunc vel risus commodo viverra. Magna fermentum iaculis eu non diam phasellus. 
-
 <div class="wrapper">
   <div class="box a"><i class="fa fa-4x fa-cog">&nbsp;</i><a href="product-a"><b>PRODUCT A</b><br>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a></div>
   
@@ -59,3 +57,5 @@ Tellus cras adipiscing enim eu turpis egestas pretium. Nunc mattis enim ut tellu
   
   <div class="box f"><i class="fa fa-4x fa-file">&nbsp;</i><p><b>PRODUCT F</b> <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
 </div>
+
+Tellus cras adipiscing enim eu turpis egestas pretium. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Eleifend donec pretium vulputate sapien nec sagittis. Sodales neque sodales ut etiam sit amet nisl purus. Tortor dignissim convallis aenean et tortor at risus. Nunc vel risus commodo viverra. Magna fermentum iaculis eu non diam phasellus. 

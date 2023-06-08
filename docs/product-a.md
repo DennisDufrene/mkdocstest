@@ -6,6 +6,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Purus semper eget duis at tellus. Tristique senectus et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt dui. Et netus et malesuada fames ac turpis. Maecenas sed enim ut sem viverra aliquet. Nibh venenatis cras sed felis eget velit. Consequat nisl vel pretium lectus quam id leo in. Leo in vitae turpis massa sed elementum tempus. Mus mauris vitae ultricies leo integer malesuada nunc vel. Justo laoreet sit amet cursus sit. Id semper risus in hendrerit gravida rutrum quisque non tellus. Magna fermentum iaculis eu non diam phasellus vestibulum.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui ut ornare lectus sit amet est placerat in.
+
+![Placeholder Product A](https://placehold.co/600x400/png)
+
 ## Heading 2
 
 Congue eu consequat ac felis donec. Tempor nec feugiat nisl pretium. Donec et odio pellentesque diam. Neque sodales ut etiam sit amet nisl purus in mollis. In eu mi bibendum neque egestas congue quisque egestas. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Adipiscing vitae proin sagittis nisl rhoncus mattis. 
